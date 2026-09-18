@@ -1,17 +1,22 @@
-# Abner Transportes
+# Abner Transportes — site completo
 
-Site institucional da Abner Transportes.
+Arquivos prontos para publicação no GitHub Pages do repositório `abnertransportes/abnertransportes.github.io`.
 
-## Dados usados no projeto
-- Razão social: 64.947.541 ABNER JOSE DUARTE DA SILVA
-- CNPJ: 64.947.541/0001-04
-- Porte: ME
-- Atividade principal: Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal.
-- Atividades secundárias: transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional.
+## Arquivos
+- `index.html` — página principal
+- `style.css` — estilos
+- `script.js` — scripts
+- `politica-de-privacidade.html` — Política de Privacidade
+- `exclusao-de-dados.html` — Exclusão de Dados
+- `termos-de-servico.html` — Termos de Serviço
+
+## URLs esperadas
+- https://abnertransportes.github.io/
+- https://abnertransportes.github.io/politica-de-privacidade.html
+- https://abnertransportes.github.io/exclusao-de-dados.html
+- https://abnertransportes.github.io/termos-de-servico.html
 
 ## Antes de publicar
-Substitua no `index.html`:
-- `SEUEMAIL@EXEMPLO.COM`
-- `55SEUNUMERO`
+O site ainda possui os placeholders `SEUEMAIL@EXEMPLO.COM` e `55SEUNUMERO` nos botões de contato. Substitua pelo e-mail e WhatsApp oficiais da Abner Transportes.
 
-O site é estático e pode ser publicado no GitHub Pages.
+As páginas jurídicas são modelos informativos e devem ser revisadas pelo responsável jurídico da empresa antes da publicação definitiva.
