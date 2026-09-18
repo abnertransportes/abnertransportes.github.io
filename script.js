@@ -1,0 +1,1 @@
+const items=document.querySelectorAll('.cards article,.stats>div');const io=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting)e.target.style.animation='rise .65s ease both'}),{threshold:.12});items.forEach(i=>io.observe(i));
