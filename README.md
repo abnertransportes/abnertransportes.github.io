@@ -20,3 +20,14 @@ Arquivos prontos para publicação no GitHub Pages do repositório `abnertranspo
 O site ainda possui os placeholders `SEUEMAIL@EXEMPLO.COM` e `55SEUNUMERO` nos botões de contato. Substitua pelo e-mail e WhatsApp oficiais da Abner Transportes.
 
 As páginas jurídicas são modelos informativos e devem ser revisadas pelo responsável jurídico da empresa antes da publicação definitiva.
+
+
+## Informações legais
+
+O `index.html` agora possui uma seção visual **Informações Legais** antes do rodapé, com acesso direto a:
+
+- `politica-de-privacidade.html`
+- `exclusao-de-dados.html`
+- `termos-de-servico.html`
+
+Os mesmos links também permanecem disponíveis no rodapé.
